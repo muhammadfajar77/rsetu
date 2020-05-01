@@ -1,0 +1,2 @@
+rootProject.name='rsetu'
+include ':app'
